@@ -1,7 +1,7 @@
-Hi, 
+# SlotcarLapCounter
+ATmega8 based lap counter for Carrera slotcars (and maybe others)
 
-for the Slotcar lap counter I got the
-UHF-PLL-Modulator bundle for www.pollin.de.
+For the slotcar lap counter I got the UHF-PLL-Modulator bundle from www.pollin.de.
 (https://www.pollin.de/p/uhf-pll-modulator-bausatz-bundle-810263)
 
 It cost 10 euronen and has power supply and LCD already include.
